@@ -1,4 +1,4 @@
-import { Http } from '@orxe/http';
+import { Http } from '@Orxe/http';
 
 class Culture {
   public getHttpMethod() {

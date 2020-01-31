@@ -1,4 +1,4 @@
-import { Culture } from '@orxe/culture';
+import { Culture } from '@Orxe/culture';
 import Orxe from './Orxe';
 
 export { Orxe };
