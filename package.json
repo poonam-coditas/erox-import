@@ -1,5 +1,5 @@
 {
-  "name": "erox-sdk",
+  "name": "@ptiwari/erox-sdk",
   "version": "1.0.4",
   "description": "Orxe SDK",
   "main": "lib/index.js",
