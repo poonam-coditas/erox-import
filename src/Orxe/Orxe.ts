@@ -1,6 +1,6 @@
 class Orxe {
   public initialiseApp() {
-    console.log('App initialised');
+    console.log('App initialised!');
   }
 }
 
