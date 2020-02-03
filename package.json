@@ -1,6 +1,6 @@
 {
   "name": "@ptiwari/erox-sdk",
-  "version": "1.0.8",
+  "version": "1.0.5",
   "description": "Orxe SDK",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -36,6 +36,6 @@
     "typescript": "^3.7.5"
   },
   "files": [
-    "dist/all/**/*"
+    "Orxe/**/*"
   ]
 }
